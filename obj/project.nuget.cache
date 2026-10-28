@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrdgMA0NNyA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LARSNYO\\Projects\\dualsense\\DualSenseTray\\DualSenseTray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LARSNYO\\.nuget\\packages\\device.net\\4.2.1\\device.net.4.2.1.nupkg.sha512",
+    "C:\\Users\\LARSNYO\\.nuget\\packages\\dualsenseapi\\1.0.2\\dualsenseapi.1.0.2.nupkg.sha512",
+    "C:\\Users\\LARSNYO\\.nuget\\packages\\hid.net\\4.2.1\\hid.net.4.2.1.nupkg.sha512",
+    "C:\\Users\\LARSNYO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\LARSNYO\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
