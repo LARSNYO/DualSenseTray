@@ -29,7 +29,7 @@
 ## 🔨 Сборка
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/LARSNYO/DualSenseTray
 cd DualSenseTray
 dotnet restore
 dotnet build -c Release
